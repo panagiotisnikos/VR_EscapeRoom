@@ -138,7 +138,7 @@ Contains the main VR experience:
 
 ---
 
-## 🏁 Objective
+## Objective
 
 Complete both puzzles and escape from the final door as quickly as possible.
 
@@ -161,7 +161,7 @@ The main focus was on implementing basic VR mechanics such as:
 
 ---
 
-## 👤 Developer
+## Developer
 
 **Panagiotis Nikos**
 
